@@ -15,7 +15,7 @@ To acknowledge use of the code and data in publications, please cite the followi
 
 1. 
 ```bibtex
-@inproceedings{DBLP:conf/iccs/IgnatovK20,
+@inproceedings{Ignatov:2020b,
   author    = {Dmitry I. Ignatov and
                L{\'{e}}onard Kwuida},
   editor    = {Mehwish Alam and
@@ -37,7 +37,7 @@ To acknowledge use of the code and data in publications, please cite the followi
 
 2. 
 ```bibtex
-@inproceedings{DBLP:conf/cla/IgnatovK20,
+@inproceedings{Ignatov:2020a,
   author    = {Dmitry I. Ignatov and
                L{\'{e}}onard Kwuida},
   editor    = {Francisco J. Valverde{-}Albacete and
