@@ -1,6 +1,6 @@
 # Shap4JSM
 
-This repository contain a demo code and data on Shapley values for JSM-method in terms of Concept Lattices (FCA) presented in the paper:
+This repository contains a demo code and data on Shapley values for JSM-method in terms of Concept Lattices (FCA) presented in the paper:
 
 * [Dmitry I. Ignatov, Léonard Kwuida: Interpretable Concept-Based Classification with Shapley Values. ICCS 2020: 90-102](https://doi.org/10.1007/978-3-030-57855-8_7).
 
