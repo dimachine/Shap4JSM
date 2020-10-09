@@ -4,6 +4,11 @@ This repository contains a demo code and data on Shapley values for JSM-method i
 
 * [Dmitry I. Ignatov, Léonard Kwuida: Interpretable Concept-Based Classification with Shapley Values. ICCS 2020: 90-102](https://doi.org/10.1007/978-3-030-57855-8_7).
 
+**Abstract**
+
+*Among the family of rule-based classification models, there are classifiers based on conjunctions of binary attributes. For example, JSM-method of automatic reasoning (named after John Stuart Mill) was formulated as a classification technique in terms of intents of formal concepts as classification hypotheses. These JSM-hypotheses already represent interpretable model since the respective conjunctions of attributes can be easily read by decision makers and thus provide plausible reasons for model prediction. However, from the interpretable machine learning viewpoint, it is advisable to provide decision makers with importance (or contribution) of individual attributes to classification of a particular object, which may facilitate explanations by experts in various domains with high-cost errors like medicine or finance. To this end, we use the notion of Shapley value from cooperative game theory, also popular in machine learning. We provide the reader with theoretical results, basic examples and attribution of JSM-hypotheses by means of Shapley value on real data.*
+
+
 It also continues our work on interpretable contribution of attributes to concept stability values:
 
 * [Dmitry I. Ignatov, Léonard Kwuida: Shapley and Banzhaf Vectors of a Formal Concept. CLA 2020: 259-271](http://ceur-ws.org/Vol-2668/paper20.pdf).
