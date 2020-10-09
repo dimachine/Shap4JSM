@@ -13,6 +13,7 @@ It also continues our work on interpretable contribution of attributes to concep
 
 * [Dmitry I. Ignatov, Léonard Kwuida: Shapley and Banzhaf Vectors of a Formal Concept. CLA 2020: 259-271](http://ceur-ws.org/Vol-2668/paper20.pdf).
 
+The associated repository also contains a demo code and data: https://github.com/dimachine/ShapStab/.
 
 To acknowledge use of the code and data in publications, please cite the following papers and mention this repository.
 
